@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goutham C Arun</h1>
-<h3 align="center">A passionate and hardworking 2nd year computer science and engineering student at Model Engineering college.</h3>
+<h3 align="center">A passionate and hardworking computer science and engineering student at Model Engineering college.</h3>
 
 - 📫 How to reach me **gouthamchennamakkal@gmail.com**
 
