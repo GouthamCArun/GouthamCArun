@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gouthamcarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gouthamcarun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/goutham c arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goutham c arun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/goutham-c-arun-057b2722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goutham c arun" height="30" width="40" /></a>
 <a href="https://kaggle.com/goutham c arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="goutham c arun" height="30" width="40" /></a>
 <a href="https://instagram.com/__gou__tham__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__gou__tham__" height="30" width="40" /></a>
 </p>
